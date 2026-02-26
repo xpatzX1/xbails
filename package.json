@@ -1,7 +1,7 @@
 {
     "name": "dgxeon-soket",
     "version": "7.0.4",
-    "description": "Customised baileys by @dgxeon13",
+    "description": "baileys by @dgxeon13",
     "keywords": [
         "whatsapp",
         "xbugbot",
@@ -13,7 +13,7 @@
         "xeonbugbot"
     ],
     "license": "MIT",
-    "author": "dgxeon13",
+    "author": "XpatzX Modified",
     "type": "commonjs",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
