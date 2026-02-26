@@ -2,7 +2,7 @@
   <h1>Modified Baileys XpatzX</h1>
 
   <p align="center">
-  <img src="https://b.top4top.io/p_3709a1lq70.jpg" alt="Thumbnail" width="50%" />
+  <img src="https://b.top4top.io/p_3709a1lq70.jpg" alt="Thumbnail" width="60%" />
 </p>
   
   <p>
