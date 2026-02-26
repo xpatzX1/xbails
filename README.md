@@ -9,7 +9,7 @@
     </a>
     &nbsp;&nbsp;
     <a href="https://youtube.com/@xpatzx" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-@dgxeon-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=330000" alt="YouTube">
+      <img src="https://img.shields.io/badge/YouTube-@xpatzx-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=330000" alt="YouTube">
     </a>
     &nbsp;&nbsp;
   </p>
